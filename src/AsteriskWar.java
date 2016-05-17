@@ -5,8 +5,8 @@ public class AsteriskWar {
 		
 		//a
 		
-		for(int i = 1; i <= 10; i++){
-			for(int k = 10; k >= i; k--){
+		for(int i = 1; i <= 11; i++){
+			for(int k = 11; k >= i; k--){
 				System.out.print("*");
 			}
 			System.out.println();
